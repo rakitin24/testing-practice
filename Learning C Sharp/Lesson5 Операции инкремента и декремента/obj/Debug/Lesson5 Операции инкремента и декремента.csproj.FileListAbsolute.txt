@@ -1,0 +1,8 @@
+C:\Users\araki\Desktop\QA\git\testing-practice\Learning C Sharp\Lesson5 Операции инкремента и декремента\bin\Debug\Lesson5 Операции инкремента и декремента.exe.config
+C:\Users\araki\Desktop\QA\git\testing-practice\Learning C Sharp\Lesson5 Операции инкремента и декремента\bin\Debug\Lesson5 Операции инкремента и декремента.exe
+C:\Users\araki\Desktop\QA\git\testing-practice\Learning C Sharp\Lesson5 Операции инкремента и декремента\bin\Debug\Lesson5 Операции инкремента и декремента.pdb
+C:\Users\araki\Desktop\QA\git\testing-practice\Learning C Sharp\Lesson5 Операции инкремента и декремента\obj\Debug\Lesson5 Операции инкремента и декремента.csproj.AssemblyReference.cache
+C:\Users\araki\Desktop\QA\git\testing-practice\Learning C Sharp\Lesson5 Операции инкремента и декремента\obj\Debug\Lesson5 Операции инкремента и декремента.csproj.SuggestedBindingRedirects.cache
+C:\Users\araki\Desktop\QA\git\testing-practice\Learning C Sharp\Lesson5 Операции инкремента и декремента\obj\Debug\Lesson5 Операции инкремента и декремента.csproj.CoreCompileInputs.cache
+C:\Users\araki\Desktop\QA\git\testing-practice\Learning C Sharp\Lesson5 Операции инкремента и декремента\obj\Debug\Lesson5 Операции инкремента и декремента.exe
+C:\Users\araki\Desktop\QA\git\testing-practice\Learning C Sharp\Lesson5 Операции инкремента и декремента\obj\Debug\Lesson5 Операции инкремента и декремента.pdb

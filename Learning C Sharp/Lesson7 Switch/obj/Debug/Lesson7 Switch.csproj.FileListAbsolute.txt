@@ -1,0 +1,8 @@
+C:\Users\araki\Desktop\QA\git\testing-practice\Learning C Sharp\Lesson7 Switch\bin\Debug\Lesson7 Switch.exe.config
+C:\Users\araki\Desktop\QA\git\testing-practice\Learning C Sharp\Lesson7 Switch\bin\Debug\Lesson7 Switch.exe
+C:\Users\araki\Desktop\QA\git\testing-practice\Learning C Sharp\Lesson7 Switch\bin\Debug\Lesson7 Switch.pdb
+C:\Users\araki\Desktop\QA\git\testing-practice\Learning C Sharp\Lesson7 Switch\obj\Debug\Lesson7 Switch.csproj.AssemblyReference.cache
+C:\Users\araki\Desktop\QA\git\testing-practice\Learning C Sharp\Lesson7 Switch\obj\Debug\Lesson7 Switch.csproj.SuggestedBindingRedirects.cache
+C:\Users\araki\Desktop\QA\git\testing-practice\Learning C Sharp\Lesson7 Switch\obj\Debug\Lesson7 Switch.csproj.CoreCompileInputs.cache
+C:\Users\araki\Desktop\QA\git\testing-practice\Learning C Sharp\Lesson7 Switch\obj\Debug\Lesson7 Switch.exe
+C:\Users\araki\Desktop\QA\git\testing-practice\Learning C Sharp\Lesson7 Switch\obj\Debug\Lesson7 Switch.pdb

@@ -1,0 +1,8 @@
+C:\Users\araki\Desktop\QA\git\testing-practice\Learning C Sharp\Homework2 Сумма и произведение трех чисел\bin\Debug\Homework2 Сумма и произведение трех чисел.exe.config
+C:\Users\araki\Desktop\QA\git\testing-practice\Learning C Sharp\Homework2 Сумма и произведение трех чисел\bin\Debug\Homework2 Сумма и произведение трех чисел.exe
+C:\Users\araki\Desktop\QA\git\testing-practice\Learning C Sharp\Homework2 Сумма и произведение трех чисел\bin\Debug\Homework2 Сумма и произведение трех чисел.pdb
+C:\Users\araki\Desktop\QA\git\testing-practice\Learning C Sharp\Homework2 Сумма и произведение трех чисел\obj\Debug\Homework2 Сумма и произведение трех чисел.csproj.AssemblyReference.cache
+C:\Users\araki\Desktop\QA\git\testing-practice\Learning C Sharp\Homework2 Сумма и произведение трех чисел\obj\Debug\Homework2 Сумма и произведение трех чисел.csproj.SuggestedBindingRedirects.cache
+C:\Users\araki\Desktop\QA\git\testing-practice\Learning C Sharp\Homework2 Сумма и произведение трех чисел\obj\Debug\Homework2 Сумма и произведение трех чисел.csproj.CoreCompileInputs.cache
+C:\Users\araki\Desktop\QA\git\testing-practice\Learning C Sharp\Homework2 Сумма и произведение трех чисел\obj\Debug\Homework2 Сумма и произведение трех чисел.exe
+C:\Users\araki\Desktop\QA\git\testing-practice\Learning C Sharp\Homework2 Сумма и произведение трех чисел\obj\Debug\Homework2 Сумма и произведение трех чисел.pdb

@@ -1,0 +1,8 @@
+C:\Users\araki\Desktop\QA\git\testing-practice\Learning C Sharp\Homework6 Подсчитывание четных и нечетных чисел\bin\Debug\Homework6 Подсчитывание четных и нечетных чисел.exe.config
+C:\Users\araki\Desktop\QA\git\testing-practice\Learning C Sharp\Homework6 Подсчитывание четных и нечетных чисел\bin\Debug\Homework6 Подсчитывание четных и нечетных чисел.exe
+C:\Users\araki\Desktop\QA\git\testing-practice\Learning C Sharp\Homework6 Подсчитывание четных и нечетных чисел\bin\Debug\Homework6 Подсчитывание четных и нечетных чисел.pdb
+C:\Users\araki\Desktop\QA\git\testing-practice\Learning C Sharp\Homework6 Подсчитывание четных и нечетных чисел\obj\Debug\Homework6 Подсчитывание четных и нечетных чисел.csproj.AssemblyReference.cache
+C:\Users\araki\Desktop\QA\git\testing-practice\Learning C Sharp\Homework6 Подсчитывание четных и нечетных чисел\obj\Debug\Homework6 Подсчитывание четных и нечетных чисел.csproj.SuggestedBindingRedirects.cache
+C:\Users\araki\Desktop\QA\git\testing-practice\Learning C Sharp\Homework6 Подсчитывание четных и нечетных чисел\obj\Debug\Homework6 Подсчитывание четных и нечетных чисел.csproj.CoreCompileInputs.cache
+C:\Users\araki\Desktop\QA\git\testing-practice\Learning C Sharp\Homework6 Подсчитывание четных и нечетных чисел\obj\Debug\Homework6 Подсчитывание четных и нечетных чисел.exe
+C:\Users\araki\Desktop\QA\git\testing-practice\Learning C Sharp\Homework6 Подсчитывание четных и нечетных чисел\obj\Debug\Homework6 Подсчитывание четных и нечетных чисел.pdb

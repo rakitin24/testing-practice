@@ -1,0 +1,8 @@
+C:\Users\araki\Desktop\QA\git\testing-practice\Learning C Sharp\Homework4 Проверка на четность\bin\Debug\Homework4 Проверка на четность.exe.config
+C:\Users\araki\Desktop\QA\git\testing-practice\Learning C Sharp\Homework4 Проверка на четность\bin\Debug\Homework4 Проверка на четность.exe
+C:\Users\araki\Desktop\QA\git\testing-practice\Learning C Sharp\Homework4 Проверка на четность\bin\Debug\Homework4 Проверка на четность.pdb
+C:\Users\araki\Desktop\QA\git\testing-practice\Learning C Sharp\Homework4 Проверка на четность\obj\Debug\Homework4 Проверка на четность.csproj.AssemblyReference.cache
+C:\Users\araki\Desktop\QA\git\testing-practice\Learning C Sharp\Homework4 Проверка на четность\obj\Debug\Homework4 Проверка на четность.csproj.SuggestedBindingRedirects.cache
+C:\Users\araki\Desktop\QA\git\testing-practice\Learning C Sharp\Homework4 Проверка на четность\obj\Debug\Homework4 Проверка на четность.csproj.CoreCompileInputs.cache
+C:\Users\araki\Desktop\QA\git\testing-practice\Learning C Sharp\Homework4 Проверка на четность\obj\Debug\Homework4 Проверка на четность.exe
+C:\Users\araki\Desktop\QA\git\testing-practice\Learning C Sharp\Homework4 Проверка на четность\obj\Debug\Homework4 Проверка на четность.pdb

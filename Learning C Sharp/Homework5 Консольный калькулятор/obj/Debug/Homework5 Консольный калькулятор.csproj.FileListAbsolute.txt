@@ -1,0 +1,8 @@
+C:\Users\araki\Desktop\QA\git\testing-practice\Learning C Sharp\Homework5 Консольный калькулятор\bin\Debug\Homework5 Консольный калькулятор.exe.config
+C:\Users\araki\Desktop\QA\git\testing-practice\Learning C Sharp\Homework5 Консольный калькулятор\bin\Debug\Homework5 Консольный калькулятор.exe
+C:\Users\araki\Desktop\QA\git\testing-practice\Learning C Sharp\Homework5 Консольный калькулятор\bin\Debug\Homework5 Консольный калькулятор.pdb
+C:\Users\araki\Desktop\QA\git\testing-practice\Learning C Sharp\Homework5 Консольный калькулятор\obj\Debug\Homework5 Консольный калькулятор.csproj.AssemblyReference.cache
+C:\Users\araki\Desktop\QA\git\testing-practice\Learning C Sharp\Homework5 Консольный калькулятор\obj\Debug\Homework5 Консольный калькулятор.csproj.SuggestedBindingRedirects.cache
+C:\Users\araki\Desktop\QA\git\testing-practice\Learning C Sharp\Homework5 Консольный калькулятор\obj\Debug\Homework5 Консольный калькулятор.csproj.CoreCompileInputs.cache
+C:\Users\araki\Desktop\QA\git\testing-practice\Learning C Sharp\Homework5 Консольный калькулятор\obj\Debug\Homework5 Консольный калькулятор.exe
+C:\Users\araki\Desktop\QA\git\testing-practice\Learning C Sharp\Homework5 Консольный калькулятор\obj\Debug\Homework5 Консольный калькулятор.pdb

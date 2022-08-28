@@ -1,0 +1,8 @@
+C:\Users\araki\Desktop\QA\git\testing-practice\Learning C Sharp\Homework3 Конвертер валюты\bin\Debug\Homework3 Конвертер валюты.exe.config
+C:\Users\araki\Desktop\QA\git\testing-practice\Learning C Sharp\Homework3 Конвертер валюты\bin\Debug\Homework3 Конвертер валюты.exe
+C:\Users\araki\Desktop\QA\git\testing-practice\Learning C Sharp\Homework3 Конвертер валюты\bin\Debug\Homework3 Конвертер валюты.pdb
+C:\Users\araki\Desktop\QA\git\testing-practice\Learning C Sharp\Homework3 Конвертер валюты\obj\Debug\Homework3 Конвертер валюты.csproj.AssemblyReference.cache
+C:\Users\araki\Desktop\QA\git\testing-practice\Learning C Sharp\Homework3 Конвертер валюты\obj\Debug\Homework3 Конвертер валюты.csproj.SuggestedBindingRedirects.cache
+C:\Users\araki\Desktop\QA\git\testing-practice\Learning C Sharp\Homework3 Конвертер валюты\obj\Debug\Homework3 Конвертер валюты.csproj.CoreCompileInputs.cache
+C:\Users\araki\Desktop\QA\git\testing-practice\Learning C Sharp\Homework3 Конвертер валюты\obj\Debug\Homework3 Конвертер валюты.exe
+C:\Users\araki\Desktop\QA\git\testing-practice\Learning C Sharp\Homework3 Конвертер валюты\obj\Debug\Homework3 Конвертер валюты.pdb
