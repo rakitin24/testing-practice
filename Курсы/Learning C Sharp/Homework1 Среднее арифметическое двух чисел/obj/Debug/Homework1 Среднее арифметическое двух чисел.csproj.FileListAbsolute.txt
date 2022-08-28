@@ -1,0 +1,8 @@
+C:\Users\araki\Desktop\QA\git\testing-practice\Learning C Sharp\Homework1 Среднее арифметическое двух чисел\bin\Debug\Homework1 Среднее арифметическое двух чисел.exe.config
+C:\Users\araki\Desktop\QA\git\testing-practice\Learning C Sharp\Homework1 Среднее арифметическое двух чисел\bin\Debug\Homework1 Среднее арифметическое двух чисел.exe
+C:\Users\araki\Desktop\QA\git\testing-practice\Learning C Sharp\Homework1 Среднее арифметическое двух чисел\bin\Debug\Homework1 Среднее арифметическое двух чисел.pdb
+C:\Users\araki\Desktop\QA\git\testing-practice\Learning C Sharp\Homework1 Среднее арифметическое двух чисел\obj\Debug\Homework1 Среднее арифметическое двух чисел.csproj.AssemblyReference.cache
+C:\Users\araki\Desktop\QA\git\testing-practice\Learning C Sharp\Homework1 Среднее арифметическое двух чисел\obj\Debug\Homework1 Среднее арифметическое двух чисел.csproj.SuggestedBindingRedirects.cache
+C:\Users\araki\Desktop\QA\git\testing-practice\Learning C Sharp\Homework1 Среднее арифметическое двух чисел\obj\Debug\Homework1 Среднее арифметическое двух чисел.csproj.CoreCompileInputs.cache
+C:\Users\araki\Desktop\QA\git\testing-practice\Learning C Sharp\Homework1 Среднее арифметическое двух чисел\obj\Debug\Homework1 Среднее арифметическое двух чисел.exe
+C:\Users\araki\Desktop\QA\git\testing-practice\Learning C Sharp\Homework1 Среднее арифметическое двух чисел\obj\Debug\Homework1 Среднее арифметическое двух чисел.pdb
