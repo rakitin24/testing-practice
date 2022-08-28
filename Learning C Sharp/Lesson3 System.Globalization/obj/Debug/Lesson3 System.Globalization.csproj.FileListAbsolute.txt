@@ -1,8 +1,0 @@
-C:\Users\araki\Desktop\QA\git\testing-practice\Learning C Sharp\Lesson3 System.Globalization\bin\Debug\Lesson3 System.Globalization.exe.config
-C:\Users\araki\Desktop\QA\git\testing-practice\Learning C Sharp\Lesson3 System.Globalization\bin\Debug\Lesson3 System.Globalization.exe
-C:\Users\araki\Desktop\QA\git\testing-practice\Learning C Sharp\Lesson3 System.Globalization\bin\Debug\Lesson3 System.Globalization.pdb
-C:\Users\araki\Desktop\QA\git\testing-practice\Learning C Sharp\Lesson3 System.Globalization\obj\Debug\Lesson3 System.Globalization.csproj.AssemblyReference.cache
-C:\Users\araki\Desktop\QA\git\testing-practice\Learning C Sharp\Lesson3 System.Globalization\obj\Debug\Lesson3 System.Globalization.csproj.SuggestedBindingRedirects.cache
-C:\Users\araki\Desktop\QA\git\testing-practice\Learning C Sharp\Lesson3 System.Globalization\obj\Debug\Lesson3 System.Globalization.csproj.CoreCompileInputs.cache
-C:\Users\araki\Desktop\QA\git\testing-practice\Learning C Sharp\Lesson3 System.Globalization\obj\Debug\Lesson3 System.Globalization.exe
-C:\Users\araki\Desktop\QA\git\testing-practice\Learning C Sharp\Lesson3 System.Globalization\obj\Debug\Lesson3 System.Globalization.pdb

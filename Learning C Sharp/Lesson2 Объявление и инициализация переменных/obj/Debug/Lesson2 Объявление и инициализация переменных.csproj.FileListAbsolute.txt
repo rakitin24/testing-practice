@@ -1,8 +1,0 @@
-C:\Users\araki\Desktop\QA\git\testing-practice\Learning C Sharp\Lesson2 Объявление и инициализация переменных\bin\Debug\Lesson2 Объявление и инициализация переменных.exe.config
-C:\Users\araki\Desktop\QA\git\testing-practice\Learning C Sharp\Lesson2 Объявление и инициализация переменных\bin\Debug\Lesson2 Объявление и инициализация переменных.exe
-C:\Users\araki\Desktop\QA\git\testing-practice\Learning C Sharp\Lesson2 Объявление и инициализация переменных\bin\Debug\Lesson2 Объявление и инициализация переменных.pdb
-C:\Users\araki\Desktop\QA\git\testing-practice\Learning C Sharp\Lesson2 Объявление и инициализация переменных\obj\Debug\Lesson2 Объявление и инициализация переменных.csproj.AssemblyReference.cache
-C:\Users\araki\Desktop\QA\git\testing-practice\Learning C Sharp\Lesson2 Объявление и инициализация переменных\obj\Debug\Lesson2 Объявление и инициализация переменных.csproj.SuggestedBindingRedirects.cache
-C:\Users\araki\Desktop\QA\git\testing-practice\Learning C Sharp\Lesson2 Объявление и инициализация переменных\obj\Debug\Lesson2 Объявление и инициализация переменных.csproj.CoreCompileInputs.cache
-C:\Users\araki\Desktop\QA\git\testing-practice\Learning C Sharp\Lesson2 Объявление и инициализация переменных\obj\Debug\Lesson2 Объявление и инициализация переменных.exe
-C:\Users\araki\Desktop\QA\git\testing-practice\Learning C Sharp\Lesson2 Объявление и инициализация переменных\obj\Debug\Lesson2 Объявление и инициализация переменных.pdb

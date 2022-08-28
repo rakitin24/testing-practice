@@ -1,8 +1,0 @@
-C:\Users\araki\Desktop\QA\git\testing-practice\Learning C Sharp\Lesson6 Операторы сравнения. If else. Логические операторы\bin\Debug\Lesson6_Операторы_сравнения.If_else.Логические_операторы.exe.config
-C:\Users\araki\Desktop\QA\git\testing-practice\Learning C Sharp\Lesson6 Операторы сравнения. If else. Логические операторы\bin\Debug\Lesson6_Операторы_сравнения.If_else.Логические_операторы.exe
-C:\Users\araki\Desktop\QA\git\testing-practice\Learning C Sharp\Lesson6 Операторы сравнения. If else. Логические операторы\bin\Debug\Lesson6_Операторы_сравнения.If_else.Логические_операторы.pdb
-C:\Users\araki\Desktop\QA\git\testing-practice\Learning C Sharp\Lesson6 Операторы сравнения. If else. Логические операторы\obj\Debug\Lesson6 Операторы сравнения. If else. Логические операторы.csproj.AssemblyReference.cache
-C:\Users\araki\Desktop\QA\git\testing-practice\Learning C Sharp\Lesson6 Операторы сравнения. If else. Логические операторы\obj\Debug\Lesson6 Операторы сравнения. If else. Логические операторы.csproj.SuggestedBindingRedirects.cache
-C:\Users\araki\Desktop\QA\git\testing-practice\Learning C Sharp\Lesson6 Операторы сравнения. If else. Логические операторы\obj\Debug\Lesson6 Операторы сравнения. If else. Логические операторы.csproj.CoreCompileInputs.cache
-C:\Users\araki\Desktop\QA\git\testing-practice\Learning C Sharp\Lesson6 Операторы сравнения. If else. Логические операторы\obj\Debug\Lesson6_Операторы_сравнения.If_else.Логические_операторы.exe
-C:\Users\araki\Desktop\QA\git\testing-practice\Learning C Sharp\Lesson6 Операторы сравнения. If else. Логические операторы\obj\Debug\Lesson6_Операторы_сравнения.If_else.Логические_операторы.pdb

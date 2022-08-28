@@ -1,8 +1,0 @@
-C:\Users\araki\Desktop\QA\git\testing-practice\Learning C Sharp\Lesson4 Operators\bin\Debug\Lesson4 Operators.exe.config
-C:\Users\araki\Desktop\QA\git\testing-practice\Learning C Sharp\Lesson4 Operators\bin\Debug\Lesson4 Operators.exe
-C:\Users\araki\Desktop\QA\git\testing-practice\Learning C Sharp\Lesson4 Operators\bin\Debug\Lesson4 Operators.pdb
-C:\Users\araki\Desktop\QA\git\testing-practice\Learning C Sharp\Lesson4 Operators\obj\Debug\Lesson4 Operators.csproj.AssemblyReference.cache
-C:\Users\araki\Desktop\QA\git\testing-practice\Learning C Sharp\Lesson4 Operators\obj\Debug\Lesson4 Operators.csproj.SuggestedBindingRedirects.cache
-C:\Users\araki\Desktop\QA\git\testing-practice\Learning C Sharp\Lesson4 Operators\obj\Debug\Lesson4 Operators.csproj.CoreCompileInputs.cache
-C:\Users\araki\Desktop\QA\git\testing-practice\Learning C Sharp\Lesson4 Operators\obj\Debug\Lesson4 Operators.exe
-C:\Users\araki\Desktop\QA\git\testing-practice\Learning C Sharp\Lesson4 Operators\obj\Debug\Lesson4 Operators.pdb
