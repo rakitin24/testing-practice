@@ -1,0 +1,8 @@
+C:\Users\araki\Desktop\QA\git\Testing-Practice\Kontur\Calculator\Calculator\bin\Debug\Calculator.exe.config
+C:\Users\araki\Desktop\QA\git\Testing-Practice\Kontur\Calculator\Calculator\bin\Debug\Calculator.exe
+C:\Users\araki\Desktop\QA\git\Testing-Practice\Kontur\Calculator\Calculator\bin\Debug\Calculator.pdb
+C:\Users\araki\Desktop\QA\git\Testing-Practice\Kontur\Calculator\Calculator\obj\Debug\Calculator.csproj.AssemblyReference.cache
+C:\Users\araki\Desktop\QA\git\Testing-Practice\Kontur\Calculator\Calculator\obj\Debug\Calculator.csproj.SuggestedBindingRedirects.cache
+C:\Users\araki\Desktop\QA\git\Testing-Practice\Kontur\Calculator\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\araki\Desktop\QA\git\Testing-Practice\Kontur\Calculator\Calculator\obj\Debug\Calculator.exe
+C:\Users\araki\Desktop\QA\git\Testing-Practice\Kontur\Calculator\Calculator\obj\Debug\Calculator.pdb
